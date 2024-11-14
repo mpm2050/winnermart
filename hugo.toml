@@ -130,12 +130,11 @@ unsafe = true
   name = "Contact"
   URL = "contact/"
   weight = 5
-  
+
   [[menu.footer]]
   name = "Admin"
   URL = "admin/"
   weight = 6
-
 
 #################### default parameters ################################
 [params]
